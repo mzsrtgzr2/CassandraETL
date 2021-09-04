@@ -1,0 +1,4 @@
+*.pyc
+.DS_Store
+__pycache__
+event_datafile_new.csv
